@@ -1,4 +1,21 @@
 ﻿<Properties StartupConfiguration="{C8916855-4CAE-4560-89F7-CA7F9C97B8B0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.rocket__team__string__practice FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.rocket__team__string__practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rocket_team_string_practice/Program.cs">
+    <Files>
+      <File FileName="rocket_team_string_practice/Program.cs" Line="473" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rocket_team_string_practice" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
